@@ -1,2 +1,3 @@
 # FLappy_bird
-Java version of the app "Flappy bird".
+"Flappy bird".
+Purpose of the projec: learning Java.
